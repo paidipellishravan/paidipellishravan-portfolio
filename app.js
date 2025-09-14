@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Typing Animation
     const typingText = document.querySelector('.typing-text');
-    const texts = ['Web Developer', 'Software Engineer', 'Tech Enthusiast', 'CS Student'];
+    const texts = ['Web Developer', 'Software Engineer', 'Tech Enthusiast', 'ECE student'];
     let textIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
